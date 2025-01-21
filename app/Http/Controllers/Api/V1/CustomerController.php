@@ -29,7 +29,7 @@ class CustomerController extends Controller
 
 
         //return new CustomerCollection(Customer::paginate());
-
+        //asdasdasdasdasdasd
     }
 
     /**
